@@ -1,2 +1,2 @@
 # Data-Analytics-with-pandas
-This project applies pandas for network traffic analysis, focusing on detecting cybersecurity threats and anomalies. By leveraging data filtering, visualization, and statistical techniques, I explore patterns in network traffic to identify suspicious behavior and potential security risks.
+This project leverages pandas to analyze network traffic and detect cybersecurity threats. By filtering high-risk traffic, identifying anomalies, and visualizing trends, I uncover suspicious network activities that might indicate potential cyber-attacks.
